@@ -12,7 +12,7 @@ I played a lot of baseball ever since I was little and the first team you actual
 
 Before high school I played plenty of baseball and even a little football. High school is where I played probably the most competitive baseball up until this point of my life. I played two years of varsity baseball with Freshman and JV mixed in for my first two years. In 2017, we were able to win the state championship losing just one game all year. After high school I wanted to keep playing but couldn't find a school where I genuinely had an interest in any of their programs while being able to play baseball at the next level. I found Quinnipiac and decided to put my playing days on hold for the time being.
 
-![states](.git\assets/images/states2017.jpg)
+![states2017](./assets/images/states2017.jpg)
 
 ## College
 
