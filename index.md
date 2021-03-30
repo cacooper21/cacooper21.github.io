@@ -5,7 +5,7 @@
 
 # Home
 
-Welcome to my website! This website is dedicated to my personal life and was made from scratch.
+Welcome to my website! :upside_down_face: This website is dedicated to my personal life and was made from scratch.
 
 # About Me
 
