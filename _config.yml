@@ -1,5 +1,5 @@
 name: Christian's-website
 title: null
+theme: jekyll-theme-architect
 plugins:
   - jemoji
-  theme: jekyll-theme-architect
