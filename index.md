@@ -4,6 +4,10 @@
 
 Welcome to my website! This website is dedicated to my personal life and was made from scratch.
 
+# About Me
+
+My name is Christian Cooper and I am a Senior at Quinnipiac University. I am a computer science major and co-founder of the Hamden Braves Club Baseball team on campus. I am from Connecticut and have a strong passion for sports and technology. Each tab on this website is a part of my life.
+
 # Contact Info
 
 **Christian Cooper**
