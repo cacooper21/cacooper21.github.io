@@ -1,4 +1,4 @@
-[Sports] (https://cacooper21.github.io/Sports)
+[Sports](https://cacooper21.github.io/Sports)
 
 # Hello
 
