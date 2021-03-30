@@ -5,7 +5,7 @@
 
 # Sports
 
-This page is dedicated to my career in sports.
+
 
 ## Middle School
 
