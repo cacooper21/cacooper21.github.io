@@ -1,5 +1,6 @@
-[Home](https://cacooper21.github.io/index)&nbsp;&nbsp;
-[Social](https://cacooper21.github.io/Social)
+[Home](https://cacooper21.github.io/index)&nbsp;&nbsp;&nbsp;
+[Social](https://cacooper21.github.io/Social)&nbsp;&nbsp;&nbsp;
+[Projects](https://cacooper21.github.io/Projects)
 
 # Sports
 
