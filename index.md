@@ -7,6 +7,7 @@ Welcome to my website! This website is dedicated to my personal life and was mad
 # Contact Info
 
 **Christian Cooper**
+<br />
 Email: chriscoop1999@gmail.com
 Phone: 203-915-0057
 Quinnipiac University
